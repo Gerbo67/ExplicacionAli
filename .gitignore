@@ -1,5 +1,10 @@
+# Archivos de proyecto inecesarios
 bin/
 obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# Carpetas cache de IDE's
+.vs/
+.idea/
